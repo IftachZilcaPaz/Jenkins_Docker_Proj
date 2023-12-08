@@ -1,10 +1,9 @@
+# Hi, I'm Iftach! 👋, Welcome to my project:
+##  Jenkins_Docker_Proj
 
-# Jenkins_Docker_Proj
+<br/>
 
 A brief description of what this project does and who it's for
-
-
-# Hi, I'm Katherine! 👋
 
 
 ## 🚀 About Me
@@ -17,32 +16,25 @@ I'm a Devops Engineer ...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iftach-z-19931491/) 
 
-🧠 I'm currently learning...
+# 💻 Tech Stack:
+<div style="background-color:white;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/640px-Jenkins_logo_with_title.svg.png" alt="python" width="300" height="80"/> </div>
 
-👯‍♀️ I'm looking to collaborate on...
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🤔 I'm looking for help with...
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iftachzilcapaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-💬 Ask me about...
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-📫 How to reach me...
+---
+[![](https://visitcount.itsvg.in/api?id=iftachzilcapaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
