@@ -1,9 +1,13 @@
+[![MasterHead](https://thecloudlegion.com/images/devops.gif)](https://rishavchanda.io)
+
 # Hi, I'm Iftach! 👋, Welcome to my project:
 ##  Jenkins_Docker_Proj
 
 <br/>
 
 A brief description of what this project does and who it's for
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689486594104/0883007c-df25-4d04-90f9-16a033cece42.gif" align="right" height="250" width="350" />
 
 
 ## 🚀 About Me
@@ -20,7 +24,7 @@ I'm a Devops Engineer ...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iftach-z-19931491/) 
 
 # 💻 Tech Stack:
-<div style="background-color:white;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/640px-Jenkins_logo_with_title.svg.png" alt="python" width="300" height="80"/> </div>
+<div style="background-color: white;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/640px-Jenkins_logo_with_title.svg.png" alt="python" width="300" height="80"/> </div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
