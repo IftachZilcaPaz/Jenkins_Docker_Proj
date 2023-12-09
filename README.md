@@ -29,7 +29,7 @@ I'm a Devops Engineer ...
 --->
 
 ## 💻 Languages and Tools:
-<div><img src="https://static-00.iconduck.com/assets.00/python-icon-512x512-48og66bp.png" alt="python" width="40" height="45"/> &nbsp;&nbsp;&nbsp;
+<div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="python" width="45" height="50"/> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.gogeticon.net/files/3163573/d130ef65a8efdfa66fa49eb5ab745cef.png" alt="python" width="45" height="45" /> 
 </div>
 
