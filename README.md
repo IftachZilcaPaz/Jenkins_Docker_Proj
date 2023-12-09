@@ -28,19 +28,23 @@ I'm a Devops Engineer ...
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iftach-z-19931491/" height="30" width="40" />
 --->
 
-## 💻 Tech Stack:
-<div style="background-color: white;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/640px-Jenkins_logo_with_title.svg.png" alt="python" width="100" height="30"/> </div>
+## 💻 Languages and Tools:
+<div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="python" width="40" height="50"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.gogeticon.net/files/3163573/d130ef65a8efdfa66fa49eb5ab745cef.png" alt="python" width="45" height="45" /> 
+</div>
 
 <br/>
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=dark&hide_border=false)<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  style="margin-top: 25px;"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false" style="height: 170px;"/> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=light&hide_border=false" style="height: 170px;"/></p>
+<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iftachzilcapaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=iftachzilcapaz&limit=5&theme=light&combine_all_yearly_contributions=true" style="height: 170px;"/> </p>
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
